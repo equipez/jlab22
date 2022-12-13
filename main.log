@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.2)  5 DEC 2022 12:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.9)  13 DEC 2022 23:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
-LaTeX2e <2022-11-01>
+LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2022-11-02> (./conferencebooklet.cls
 Document Class: conferencebooklet 2019/12/22 LaTeX Templates Conference Booklet
  Class v1.0
@@ -47,7 +47,7 @@ Already applied: [0000/00/00] Usage of raw or classic option list on input line
 (/home/zaikunzhang/local/texlive/2022/texmf-dist/tex/latex/koma-script/tocbasic
 .sty
 Package: tocbasic 2022/10/12 v3.38 KOMA-Script package (handling toc-files)
-\scr@dte@tocline@numberwidth=\skip47
+\scr@dte@tocline@numberwidth=\skip48
 \scr@dte@tocline@numbox=\box51
 )
 Package tocbasic Info: omitting babel extension for `toc'
@@ -76,7 +76,7 @@ File: scrsize12pt.clo 2022/10/12 v3.38 KOMA-Script font size class option (12pt
 (/home/zaikunzhang/local/texlive/2022/texmf-dist/tex/latex/koma-script/typearea
 .sty
 Package: typearea 2022/10/12 v3.38 KOMA-Script package (type area)
-\ta@bcor=\skip48
+\ta@bcor=\skip49
 \ta@div=\count185
 Package typearea Info: You've used standard option `a4paper'.
 (typearea)             This is correct!
@@ -84,10 +84,10 @@ Package typearea Info: You've used standard option `a4paper'.
 (typearea)             If you'd like to set the option with \KOMAoptions,
 (typearea)             you'd have to use `paper=a4' there
 (typearea)             instead of `a4paper', too.
-\ta@hblk=\skip49
-\ta@vblk=\skip50
-\ta@temp=\skip51
-\footheight=\skip52
+\ta@hblk=\skip50
+\ta@vblk=\skip51
+\ta@temp=\skip52
+\footheight=\skip53
 Package typearea Info: These are the values describing the layout:
 (typearea)             DIV  = 12
 (typearea)             BCOR = 0.0pt
@@ -113,49 +113,49 @@ Package typearea Info: These are the values describing the layout:
 \c@subsubsection=\count190
 \c@paragraph=\count191
 \c@subparagraph=\count192
-\scr@dte@chapter@maxnumwidth=\skip53
+\scr@dte@chapter@maxnumwidth=\skip54
 Class scrbook Info: using compatibility default `afterindent=bysign'
 (scrbook)           for `\chapter on input line 5898.
-\scr@dte@section@maxnumwidth=\skip54
+\scr@dte@section@maxnumwidth=\skip55
 Class scrbook Info: using compatibility default `runin=bysign'
 (scrbook)           for `\section on input line 5909.
 Class scrbook Info: using compatibility default `afterindent=bysign'
 (scrbook)           for `\section on input line 5909.
-\scr@dte@part@maxnumwidth=\skip55
+\scr@dte@part@maxnumwidth=\skip56
 Class scrbook Info: using compatibility default `afterindent=true'
 (scrbook)           for `\part on input line 5918.
-\scr@dte@subsection@maxnumwidth=\skip56
+\scr@dte@subsection@maxnumwidth=\skip57
 Class scrbook Info: using compatibility default `runin=bysign'
 (scrbook)           for `\subsection on input line 5928.
 Class scrbook Info: using compatibility default `afterindent=bysign'
 (scrbook)           for `\subsection on input line 5928.
-\scr@dte@subsubsection@maxnumwidth=\skip57
+\scr@dte@subsubsection@maxnumwidth=\skip58
 Class scrbook Info: using compatibility default `runin=bysign'
 (scrbook)           for `\subsubsection on input line 5938.
 Class scrbook Info: using compatibility default `afterindent=bysign'
 (scrbook)           for `\subsubsection on input line 5938.
-\scr@dte@paragraph@maxnumwidth=\skip58
+\scr@dte@paragraph@maxnumwidth=\skip59
 Class scrbook Info: using compatibility default `runin=bysign'
 (scrbook)           for `\paragraph on input line 5949.
 Class scrbook Info: using compatibility default `afterindent=bysign'
 (scrbook)           for `\paragraph on input line 5949.
-\scr@dte@subparagraph@maxnumwidth=\skip59
+\scr@dte@subparagraph@maxnumwidth=\skip60
 Class scrbook Info: using compatibility default `runin=bysign'
 (scrbook)           for `\subparagraph on input line 5959.
 Class scrbook Info: using compatibility default `afterindent=bysign'
 (scrbook)           for `\subparagraph on input line 5959.
-\abovecaptionskip=\skip60
-\belowcaptionskip=\skip61
+\abovecaptionskip=\skip61
+\belowcaptionskip=\skip62
 \c@pti@nb@sid@b@x=\box52
 Package tocbasic Info: omitting babel extension for `lof'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lof' on input line 7142.
-\scr@dte@figure@maxnumwidth=\skip62
+\scr@dte@figure@maxnumwidth=\skip63
 \c@figure=\count193
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 7159.
-\scr@dte@table@maxnumwidth=\skip63
+\scr@dte@table@maxnumwidth=\skip64
 \c@table=\count194
 Class scrbook Info: Redefining `\numberline' on input line 7330.
 \bibindent=\dimen140
@@ -169,8 +169,8 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \ar@mcellbox=\box53
 \extrarowheight=\dimen142
 \NC@list=\toks17
-\extratabsurround=\skip64
-\backup@length=\skip65
+\extratabsurround=\skip65
+\backup@length=\skip66
 \ar@cellbox=\box54
 )
 \rotheadsize=\dimen143
@@ -214,8 +214,8 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \page@free=\dimen148
 \premulticols=\dimen149
 \postmulticols=\dimen150
-\multicolsep=\skip66
-\multicolbaselineskip=\skip67
+\multicolsep=\skip67
+\multicolbaselineskip=\skip68
 \partial@page=\box56
 \last@line=\box57
 \maxbalancingoverflow=\dimen151
@@ -271,10 +271,10 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 )
 (/home/zaikunzhang/local/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
-\LTleft=\skip68
-\LTright=\skip69
-\LTpre=\skip70
-\LTpost=\skip71
+\LTleft=\skip69
+\LTright=\skip70
+\LTpre=\skip71
+\LTpost=\skip72
 \LTchunksize=\count272
 \LTcapwidth=\dimen155
 \LT@head=\box100
@@ -343,14 +343,14 @@ Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 (/home/zaikunzhang/local/texlive/2022/texmf-dist/tex/latex/multirow/multirow.st
 y
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip72
+\multirow@colwidth=\skip73
 \multirow@cntb=\count283
-\multirow@dima=\skip73
+\multirow@dima=\skip74
 \bigstrutjot=\dimen169
 )
 (/home/zaikunzhang/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
-\@mathmargin=\skip74
+\@mathmargin=\skip75
 
 For additional information on amsmath, use the `?' option.
 (/home/zaikunzhang/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
@@ -409,8 +409,8 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \totwidth@=\dimen177
 \lineht@=\dimen178
 \@envbody=\toks23
-\multlinegap=\skip75
-\multlinetaggap=\skip76
+\multlinegap=\skip76
+\multlinetaggap=\skip77
 \mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
@@ -434,15 +434,15 @@ Class scrbook Warning: Usage of package `fancyhdr' together
 y
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip77
-\f@nch@O@elh=\skip78
-\f@nch@O@erh=\skip79
-\f@nch@O@olh=\skip80
-\f@nch@O@orh=\skip81
-\f@nch@O@elf=\skip82
-\f@nch@O@erf=\skip83
-\f@nch@O@olf=\skip84
-\f@nch@O@orf=\skip85
+\f@nch@headwidth=\skip78
+\f@nch@O@elh=\skip79
+\f@nch@O@erh=\skip80
+\f@nch@O@olh=\skip81
+\f@nch@O@orh=\skip82
+\f@nch@O@elf=\skip83
+\f@nch@O@erf=\skip84
+\f@nch@O@olf=\skip85
+\f@nch@O@orf=\skip86
 )
 (/home/zaikunzhang/local/texlive/2022/texmf-dist/tex/latex/footmisc/footmisc.st
 y
@@ -550,7 +550,7 @@ File: microtype-pdftex.def 2022/06/23 v3.0f Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 900.
 LaTeX Info: Redefining \lslig on input line 900.
-\MT@outer@space=\skip86
+\MT@outer@space=\skip87
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
@@ -579,7 +579,7 @@ Package xcolor Info: Driver file: pdftex.def on input line 227.
 y
 Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 \everycr=\toks32
-\minrowclearance=\skip87
+\minrowclearance=\skip88
 \rownum=\count302
 )
 (/home/zaikunzhang/local/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.l
@@ -751,7 +751,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip88
+\Hy@SectionHShift=\skip89
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 119.
 \mybarpadding=\dimen194
@@ -1108,12 +1108,12 @@ Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Bcount=\count336
 \calc@Adimen=\dimen301
 \calc@Bdimen=\dimen302
-\calc@Askip=\skip89
-\calc@Bskip=\skip90
+\calc@Askip=\skip90
+\calc@Bskip=\skip91
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count337
-\calc@Cskip=\skip91
+\calc@Cskip=\skip92
 )
 (/home/zaikunzhang/local/texlive/2022/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
@@ -1169,18 +1169,18 @@ y
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 ))
 \c@KVtest=\count343
-\sf@farskip=\skip92
+\sf@farskip=\skip93
 \sf@captopadj=\dimen316
-\sf@capskip=\skip93
-\sf@nearskip=\skip94
+\sf@capskip=\skip94
+\sf@nearskip=\skip95
 \c@subfigure=\count344
 \c@subfigure@save=\count345
 \c@lofdepth=\count346
 \c@subtable=\count347
 \c@subtable@save=\count348
 \c@lotdepth=\count349
-\sf@top=\skip95
-\sf@bottom=\skip96
+\sf@top=\skip96
+\sf@bottom=\skip97
 )
 LaTeX Font Info:    Trying to load font information for T1+Crlt-LF on input lin
 e 37.
@@ -1347,7 +1347,7 @@ File: lscape.hak 2022/10/12 v3.38 KOMA-Script scrhack part (hacking package lsc
 ape)
 Package scrhack Info: \landscape patched to make \textheight change optional on
  input line 90.
-\scrh@LT@textheight=\skip97
+\scrh@LT@textheight=\skip98
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
@@ -1458,31 +1458,6 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
 nput line 240.
 
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \penalty \@M \futurelet \@let@token \LT@@h...
-l.262     \hline
-                
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Misplaced \omit.
-\multispan ->\omit 
-                   \@multispan 
-l.265 
-      
-I expect to see \omit only after tab marks or the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! Extra alignment tab has been changed to \cr.
-<template> ... width\arrayrulewidth }\endtemplate 
-                                                  
-l.265 
-      
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
 [4
 
 ]
@@ -1492,7 +1467,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 296.
+nput line 297.
 
 [5
 
@@ -1502,7 +1477,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 306.
+nput line 307.
 
 [6
 
@@ -1512,7 +1487,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 316.
+nput line 317.
 
 [7
 
@@ -1522,7 +1497,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 326.
+nput line 327.
 
 [8
 
@@ -1532,7 +1507,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 336.
+nput line 337.
 
 [9
 
@@ -1542,7 +1517,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 347.
+nput line 348.
 
 [10
 
@@ -1552,10 +1527,10 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 359.
+nput line 360.
 
 
-Overfull \hbox (3.91835pt too wide) in paragraph at lines 366--366
+Overfull \hbox (3.91835pt too wide) in paragraph at lines 367--367
 \T1/Crlt-LF/b/n/17.28 (-20) Universal Pre-dic-tion Band and Vari-ance In-ter-po
 -la-tion via Semi-Definite
  []
@@ -1568,7 +1543,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 370.
+nput line 371.
 
 [12
 
@@ -1578,7 +1553,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 381.
+nput line 382.
 
 [13
 
@@ -1588,7 +1563,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 392.
+nput line 393.
 
 [14
 
@@ -1598,7 +1573,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 404.
+nput line 405.
 
 [15
 
@@ -1608,7 +1583,7 @@ Class scrbook Warning: Usage of deprecated command `\ifthispageodd'.
 (scrbook)              The command has been renamed because of a
 (scrbook)              recommendation of The LaTeX Project Team.
 (scrbook)              Please replace `\ifthispageodd' by `\Ifthispageodd' on i
-nput line 416.
+nput line 417.
 
 
 AED: lastpage setting LastPage
@@ -1619,10 +1594,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 30461 strings out of 475029
- 593835 string characters out of 5771709
- 1087984 words of memory out of 5000000
- 51137 multiletter control sequences out of 15000+600000
+ 30461 strings out of 475026
+ 593835 string characters out of 5771669
+ 1088021 words of memory out of 5000000
+ 51140 multiletter control sequences out of 15000+600000
  599576 words of font info for 220 fonts, out of 8000000 for 9000
  1111 hyphenation exceptions out of 8191
  122i,13n,133p,10600b,702s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1639,7 +1614,7 @@ sfonts/cm/cmsy10.pfb></home/zaikunzhang/local/texlive/2022/texmf-dist/fonts/typ
 e1/public/amsfonts/symbols/msbm10.pfb></home/zaikunzhang/local/texlive/2022/tex
 mf-dist/fonts/type1/public/cm-super/sftt1200.pfb></home/zaikunzhang/local/texli
 ve/2022/texmf-dist/fonts/type1/public/cm-super/sftt1728.pfb>
-Output written on main.pdf (17 pages, 396918 bytes).
+Output written on main.pdf (17 pages, 396911 bytes).
 PDF statistics:
  204 PDF objects out of 1000 (max. 8388607)
  157 compressed objects within 2 object streams
